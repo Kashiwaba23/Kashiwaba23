@@ -1,5 +1,5 @@
 # Ryan Tenbarge
-Recent Le Wagon Tokyo Data Science Bootcamp graduate 🎓     
+Recent [Le Wagon Tokyo Data Science Bootcamp](https://www.lewagon.com/tokyo/data-science-course) graduate 🎓     
 
 I plan to continue honing my data analysis 📊 and machine learning 🤖 skills.
 
